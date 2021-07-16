@@ -1,4 +1,4 @@
-from upwrapper import accounts, categories
+from upbank_api_wrapper import accounts, categories
 
 cat = categories.Categories()
 
